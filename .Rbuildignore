@@ -6,3 +6,6 @@ check_reader.R
 ^appveyor\.yml$
 ^cran-comments\.md$
 ^\.github$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
